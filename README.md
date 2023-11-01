@@ -17,7 +17,7 @@ Se você deseja executar o sistema e testar as funcionalidades, siga as instruç
 
 ## Licença
 
-Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este projeto é licenciado sob a Licença MIT. 
 
 Fique à vontade para explorar o código-fonte e recursos relacionados a este desafio concluído. 
 
